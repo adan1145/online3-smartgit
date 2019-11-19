@@ -3,3 +3,5 @@ Hello World
 changes updated in first.txt
 
 changes updated in first.txt second time
+
+changes in master
